@@ -14,29 +14,32 @@ A deep learning-based web application developed for multi-class classification o
 This project uses the HAM10000 dataset containing dermoscopic images of 7 different skin lesion classes. A CNN architecture was designed and trained to classify skin lesions with improved accuracy and generalization. The complete pipeline includes data preprocessing, model training, evaluation, and deployment through an interactive Streamlit web application.
 
 **🛠️ Technologies Used**
-Python
-TensorFlow & Keras
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
-Streamlit
+
+1. Python
+2. TensorFlow & Keras
+3. NumPy
+4. Pandas
+5. Matplotlib
+6. Scikit-learn
+7. Streamlit
 
 **✨ Key Features**
-Multi-class classification of 7 skin lesion types
-Deep learning-based CNN architecture
-End-to-end image preprocessing pipeline
-Model evaluation using performance metrics
-Streamlit-based interactive web application
-Real-time image upload and prediction interface
+
+1. Multi-class classification of 7 skin lesion types
+2. Deep learning-based CNN architecture
+3. End-to-end image preprocessing pipeline
+4. Model evaluation using performance metrics
+5. Streamlit-based interactive web application
+6. Real-time image upload and prediction interface
 
 **👩‍💻 My Contributions**
-Designed and implemented a deep learning CNN architecture for multi-class classification of 7 skin lesion types using the HAM10000 dataset.
-Performed end-to-end data preprocessing, including image resizing, data cleaning, normalization of pixel values, and label encoding using NumPy, Pandas, and Scikit-learn.
-Conducted exploratory data analysis and visualized dataset distribution to better understand class imbalance.
-Worked on model training, validation, and optimization for improved classification performance.
-Conducted model evaluation using accuracy and relevant performance metrics to ensure reliable prediction results.
-Developed and deployed a Streamlit-based web application that allows users to upload skin lesion images and receive real-time predictions.
+
+1. Designed and implemented a deep learning CNN architecture for multi-class classification of 7 skin lesion types using the HAM10000 dataset.
+2. Performed end-to-end data preprocessing, including image resizing, data cleaning, normalization of pixel values, and label encoding using NumPy, Pandas, and Scikit-learn.
+3. Conducted exploratory data analysis and visualized dataset distribution to better understand class imbalance.
+4. Worked on model training, validation, and optimization for improved classification performance.
+5. Conducted model evaluation using accuracy and relevant performance metrics to ensure reliable prediction results.
+6. Developed and deployed a Streamlit-based web application that allows users to upload skin lesion images and receive real-time predictions.
 
 **📊 Outcome**
 
