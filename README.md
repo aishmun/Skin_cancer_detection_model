@@ -7,7 +7,7 @@ Dataset Link: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 **Skin Cancer Detection Using Deep Learning (CNN)**
 
-A deep learning-based web application developed for multi-class classification of skin cancer lesions using Convolutional Neural Networks (CNN). The project aims to assist in early skin lesion analysis by predicting different categories of skin diseases from dermoscopic images.
+_A deep learning-based web application developed for multi-class classification of skin cancer lesions using Convolutional Neural Networks (CNN). The project aims to assist in early skin lesion analysis by predicting different categories of skin diseases from dermoscopic images._
 
 **🚀 Project Overview**
 
