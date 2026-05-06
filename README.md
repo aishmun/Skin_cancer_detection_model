@@ -1,3 +1,5 @@
+Skin Cancer Detection Model
+
 Skin Cancer Detection Using Deep Learning (CNN)
 Access the HAM10000 Dataset
 
