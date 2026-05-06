@@ -1,9 +1,10 @@
 # Skin_Cancer_Detection_Model
 
 **Skin Cancer Detection Using HAM10000 Dataset and CNN Model**
+
 Access the HAM10000 Dataset
 
-Dataset Link: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+**Dataset Link:** https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 **Skin Cancer Detection Using Deep Learning (CNN)**
 
